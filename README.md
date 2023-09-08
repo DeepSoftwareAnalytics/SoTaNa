@@ -62,7 +62,7 @@ bash inference.sh ${model_size}
 python evaluation.py --refs_filename xxx --preds_filename xxx 
 ```
 
-### Code Genereation
+### Code Generation
 
 #### Obtain the Results
 ```
