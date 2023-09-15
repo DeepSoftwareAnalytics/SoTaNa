@@ -14,7 +14,7 @@ class Prompter(object):
         self._verbose = verbose
         if not template_name:
             # Enforce the default here, so the constructor can be called with '' and will not break.
-            template_name = "alpaca"
+            template_name = "sotana"
         file_name = osp.join("templates", f"{template_name}.json")
         if not osp.exists(file_name):
             raise ValueError(f"Can't read {file_name}")
