@@ -1,4 +1,4 @@
-# SoTaNa: The Open-Source Software Development Assistant
+# SoTaNa: An Open-Source Software Engineering Instruction-Tuned Model
 
 <!-- ![sotana](Figures/sotana.jpg) -->
 <div align="center">
