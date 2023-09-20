@@ -5,6 +5,8 @@
 <img src=Figures/sotana.jpg width=20% />
 </div>
 
+## News
+
 |Model|Checkpoint|
 | ----- |------| 
 |Enoch/SoTana-7B-lora-100000|🤗 <a href="https://huggingface.co/Enoch/SoTana-7B-lora-100000" target="_blank">HF Link</a>|
